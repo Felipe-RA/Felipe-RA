@@ -43,6 +43,8 @@ I am versatile in my toolset, always picking the best tool for the task at hand.
 ![SonarCloud](https://img.shields.io/badge/-SonarCloud-CB3032?style=flat-square&logo=SonarCloud&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=Jira&logoColor=white)
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 
