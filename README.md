@@ -1,26 +1,46 @@
 <h1 align="center">Hi there, I'm Felipe R.A. 👋</h1>
-<h3 align="center">A passionate Systems Engineer from Colombia 🇨🇴 | 💚 Grass Green Alumni of Universidad de Antioquia</h3>
+<h3 align="center"> Systems Engineer | 💚 Changing the World One Commit at a Time 💚 </h3>
 
 <p align="center">
-  <a href="https://velezreyesmas.com/fellows/"><img src="https://img.shields.io/badge/VelezReyes+-Tech%20Fellow-%23A020F0.svg?&style=for-the-badge&logoColor=white" alt="VelezReyes+ Tech Fellow Badge"/></a>
+  <a href="https://velezreyesmas.com/fellows/">
+    <img src="https://img.shields.io/badge/VelezReyes+-Tech%20Fellow-%23A020F0.svg?&style=for-the-badge&logoColor=white" alt="VelezReyes+ Tech Fellow Badge"/>
+  </a>
+  <a href="https://udea.edu.co">
+    <img src="https://img.shields.io/badge/-Universidad%20de%20Antioquia-%234CAF50.svg?&style=for-the-badge&logoColor=white" alt="Universidad de Antioquia Badge"/>
+  </a>
 </p>
 
 ---
 
-I'm deeply connected to my alma mater and into all things software development. As a proud 🟣 VelezReyes+ Tech Fellow, I've gained a broad knowledge base across the software development spectrum. I specialize in data analysis and machine learning, but I'm always eager to employ whatever tools necessary to get the job done. Quality Assurance (QA) automation fascinates me, and I'm constantly pondering how to leverage my skills to enhance my corner of the world.
+I’ve forged a path in software development with a focus on data analysis, machine learning, and QA automation. I aim to keep a tight relation with my Alma Mater💚.  As a proud 🟣 VelezReyes+ Tech Fellow, my journey through  the realms of software development has been enlightening. I'm eager to use whatever tools is the best fit to fix a problem.
 
-🌍 **Human-Focused** - I believe developers should always prioritize the human aspect in technology. It's not just about code; it's about making lives better.
+🌍 **Human-Focused** - I believe in the importance of keeping humanity at the center of our technological endeavors. Our work is not just about coding; it's about creating a better future.
 
-📚 **Teaching** - Currently, I'm working with faculty professor [rramosp](https://github.com/rramosp) on this AI for Engineers and Scientists  [here](https://github.com/Felipe-RA/ai4eng.v1). 
+📚 **Teaching and Collaboration** - I'm collaborating with Professor [rramosp](https://github.com/rramosp) on  "Introduction to AI for Engineers and Scientists" course. Do check the course! [here at ai4eng](https://github.com/Felipe-RA/ai4eng.v1).
 
-💡 **Projects** - My project portfolio is a testament to my passion. From in-progress works to my brainchild [udeai_forest](https://github.com/Felipe-RA/udeai_forest), an AI project I'm eagerly working to deploy.
+🛰 **Satellite Image Recognition** - Utilizing AI to extract insights from satellite imagery for practical applications. Specifically on land cover.
+
+💡 **Projects** - I'm usually working on multiple stuff at any time. Right now leading and contributing to [udeai_forest](https://github.com/Felipe-RA/udeai_forest).
 
 ### 🛠 &nbsp;Tech Stack
 
+I am versatile in my toolset, always picking the best tool for the task at hand. Here's a snapshot of my tech stack:
+
+**Frontend & Backend**: React for seamless UIs and Django for robust server-side logic.
+
+**Databases**: Managing data across MongoDB, Oracle SQL, and PostgreSQL.
+
+**Continuous Learning**: The list here isn't exhaustive. I'm always expanding my skills. Right now, hoping to include an AWS badge into this tech stack ;)
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-005571?style=flat-square)
 ![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-FFA07A?style=flat-square)
-![QA Automation](https://img.shields.io/badge/-QA%20Automation-00CED1?style=flat-square&logo=Selenium&logoColor=white)
+![SonarCloud](https://img.shields.io/badge/-SonarCloud-CB3032?style=flat-square&logo=SonarCloud&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
@@ -28,6 +48,7 @@ I'm deeply connected to my alma mater and into all things software development. 
 
 <p align="center">
 <a href="https://github.com/Felipe-RA"><img src="https://img.shields.io/badge/-Felipe%20R.A.-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<a href="mailto:felipeangel50@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 ---
