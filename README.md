@@ -16,11 +16,9 @@ I’ve forged a path in software development with a focus on data analysis, mach
 
 🌍 **Human-Focused** - I believe in the importance of keeping humanity at the center of our technological endeavors. Our work is not just about coding; it's about creating a better future.
 
-📚 **Teaching and Collaboration** - I'm collaborating with Professor [rramosp](https://github.com/rramosp) on  "Introduction to AI for Engineers and Scientists" course. Do check the course! [here at ai4eng](https://github.com/Felipe-RA/ai4eng.v1).
-
 🛰 **Satellite Image Recognition** - Utilizing AI to extract insights from satellite imagery for practical applications. Specifically on land cover.
 
-💡 **Projects** - I'm usually working on multiple stuff at any time. Right now leading and contributing to [udeai_forest](https://github.com/Felipe-RA/udeai_forest).
+💡 **Projects** - Nothing Public right now
 
 ### 🛠 &nbsp;Tech Stack
 
